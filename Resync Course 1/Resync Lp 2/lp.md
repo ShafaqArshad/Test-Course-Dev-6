@@ -5,7 +5,7 @@ scenarios:
   - Resync Lp 2 Scenario 2
 isPremium: false
 isAvailable: true
-scenarioCount: 0
+scenarioCount: 2
 isNew: true
 categories: 
   - docker
