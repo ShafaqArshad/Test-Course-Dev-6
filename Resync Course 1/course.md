@@ -9,3 +9,6 @@ categories:
     - kubernetes
 learningPaths: []
 complexity: advance
+price: 
+  value: 22
+  currency: USD
