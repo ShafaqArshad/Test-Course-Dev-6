@@ -1,11 +1,9 @@
 title: Resync Lp 1
 description: Lets learn how to build a web application with Flask.
-scenarios: 
-  - Resync Lp 1 Scenario 1
-  - Resync Lp 1 Scenario 2
+scenarios: []
 isPremium: true
 isAvailable: true
-scenarioCount: 2
+scenarioCount: 0
 isNew: true
 categories: 
   - docker
