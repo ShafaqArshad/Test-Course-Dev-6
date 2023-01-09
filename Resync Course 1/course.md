@@ -1,5 +1,5 @@
 courseName: Resync Course 1
-description: New Multiple Course For Test
+description: New Multiple Course For Test Shafaq
 isAvailable: true
 isPremium: true
 categories: 
