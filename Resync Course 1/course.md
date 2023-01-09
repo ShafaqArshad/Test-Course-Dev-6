@@ -1,4 +1,4 @@
-courseName: Resync COurse 1
+courseName: Resync Course 1
 description: New Multiple Course For Test
 isAvailable: true
 isPremium: true
