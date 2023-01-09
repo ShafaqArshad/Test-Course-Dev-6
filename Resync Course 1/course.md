@@ -7,7 +7,8 @@ categories:
     - golang
     - python
     - kubernetes
-learningPaths: []
+learningPaths: 
+    - Resync Lp 1
 complexity: advance
 price: 
   value: 22
