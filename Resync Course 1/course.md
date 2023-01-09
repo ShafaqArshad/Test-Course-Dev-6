@@ -16,6 +16,7 @@ learningPaths:
     - Resync Lp 6
     - Resync Lp 7
     - Resync Lp 8
+    - Resync Lp 9
 complexity: advance
 price: 
   value: 22
