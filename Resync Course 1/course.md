@@ -9,7 +9,7 @@ categories:
     - kubernetes
 learningPaths: 
     - Resync Lp 1
-       - Resync Lp 2
+    - Resync Lp 2
     - Resync Lp 3
     - Resync Lp 4
     - Resync Lp 5
