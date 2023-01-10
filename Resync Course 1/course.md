@@ -4,8 +4,6 @@ isAvailable: true
 isPremium: true
 categories: 
     - docker
-    - golang
-    - python
 learningPaths: 
     - Resync Lp 1
 complexity: advance
