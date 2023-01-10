@@ -4,7 +4,7 @@ scenarios:
   - Scenario 1 Sa
 isPremium: true
 isAvailable: true
-scenarioCount: 0
+scenarioCount: 1
 isNew: true
 categories: 
   - docker
