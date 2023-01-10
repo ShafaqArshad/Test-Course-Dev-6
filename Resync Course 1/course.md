@@ -1,7 +1,7 @@
 courseName: Resync Course 1
 description: New Multiple Course For Test Shafaq Shafaq
 isAvailable: true
-isPremium: false
+isPremium: true
 categories: 
     - docker
     - golang
@@ -9,6 +9,7 @@ categories:
     - kubernetes
 learningPaths: 
     - Resync Lp 1
+    - Resync Lp 3
 complexity: advance
 price: 
   value: 22
