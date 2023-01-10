@@ -1,7 +1,7 @@
 courseName: Resync Course 1
 description: New Multiple Course For Test Shafaq Shafaq
 isAvailable: true
-isPremium: true
+isPremium: false
 categories: 
     - docker
     - golang
