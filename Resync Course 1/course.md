@@ -3,6 +3,7 @@ description: New Multiple Course For Test Shafaq Shafaq
 isAvailable: true
 isPremium: true
 categories: 
+    - docker
     - golang
     - python
     - kubernetes
